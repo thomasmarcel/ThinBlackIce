@@ -1,4 +1,4 @@
-# Thin Black Theme for IceWM
+# Thin Black Ice Theme for IceWM
 
 Based on [ThinBlack4 by Albi](https://ubuntuforums.org/showthread.php?t=321994&s=5dc13264529a0a49a7a0b5ba93c02804), with bigger font size among other things.  
 
