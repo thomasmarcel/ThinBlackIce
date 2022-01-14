@@ -12,6 +12,7 @@ Based on [ThinBlack4 by Albi](https://ubuntuforums.org/showthread.php?t=321994&s
 
 1. Clone this repository in your `~/.icewm/themes`  
   ```shell
+  cd ~/.icewm/themes  
   git clone https://github.com/thomasmarcel/ThinBlackIce.git
   ```
 2. In your ~/.icewm/theme, add the following line:  
