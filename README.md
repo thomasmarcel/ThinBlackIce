@@ -14,7 +14,7 @@ Based on [ThinBlack4 by Albi}(https://ubuntuforums.org/showthread.php?t=321994&s
   ```shell
   git clone https://github.com/thomasmarcel/ThinBlackIce.git
   ```
-1. In your ~/.icewm/theme, add the following line:  
+2. In your ~/.icewm/theme, add the following line:  
   ```shell
   Theme="ThinBlackIce/default.theme"
 
